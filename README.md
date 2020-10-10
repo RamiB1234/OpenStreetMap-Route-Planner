@@ -1,6 +1,8 @@
-# Route Planning Project
+# Introduction
 
-This repo contains the starter code for the Route Planning project.
+This is a C++ project that uses real map data from OpenStreetMap and implements A* search algorithm to find the shortest path between 2 points that the user enters.
+
+Most of the A* algorithm logic exists in `src/route_planner.cpp`.
 
 <img src="map.png" width="600" height="450" />
 
